@@ -1,5 +1,5 @@
 Summary:	Icelandic dictionary for aspell
-Summary(pl):	S≥ownik islandzki dla aspella
+Summary(pl.UTF-8):   S≈Çownik islandzki dla aspella
 Name:		aspell-is
 Version:	0.51.1
 %define	subv	0
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Icelandic dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik islandzki (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik islandzki (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n %{name}-%{version}-%{subv}
