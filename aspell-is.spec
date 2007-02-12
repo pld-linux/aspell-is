@@ -1,5 +1,5 @@
 Summary:	Icelandic dictionary for aspell
-Summary(pl.UTF-8):   Słownik islandzki dla aspella
+Summary(pl.UTF-8):	Słownik islandzki dla aspella
 Name:		aspell-is
 Version:	0.51.1
 %define	subv	0
